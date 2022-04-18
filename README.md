@@ -1,4 +1,4 @@
-# Mario-Text-Based-Game
+# Mario Text Based Game
 This is a text based game I built using python for my scripting class.
 
 This game uses text input from the user to control the game.
